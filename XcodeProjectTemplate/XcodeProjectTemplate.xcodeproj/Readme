@@ -1,0 +1,8 @@
+
+- Add cocoapods
+
+- Configure MOCK, DEV, UAT, PROD environments with custom icons
+
+- AFNetworking-MantleSerializer
+- Add Sculpture related custom class
+- Add OHHTTPStubs and custom class
